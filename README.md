@@ -22,7 +22,9 @@ B.Tech Computer Science Student | Future Software Engineer
 
 ### 🚀 Skills
 
-HTML | CSS | JavaScript | Git | GitHub
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
 
 ---
 
