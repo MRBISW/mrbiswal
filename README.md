@@ -43,3 +43,7 @@ B.Tech Computer Science Student | Future Software Engineer
 ### 👀 Profile Views
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=mrbiswal&color=blue)
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/MRBISW/snake/blob/output/github-contribution-grid-snake.svg)
