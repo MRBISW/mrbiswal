@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rudra Biswal</h1>
 
-<h3 align="center">
-B.Tech Computer Science Student | Future Software Engineer
-</h3>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Learning+JavaScript;HTML+CSS+Developer;Future+Software+Engineer&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=B.Tech+Computer+Science+Student;Web+Developer;Learning+JavaScript;Future+Software+Engineer&center=true&width=500&height=50">
 </p>
 
 ---
