@@ -37,9 +37,6 @@
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mrbiswal&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbiswal&layout=compact&theme=tokyonight" />
-
 </p>
 
 ---
@@ -47,12 +44,6 @@
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MRBISW&theme=tokyonight)
-
----
-
-### 🔥 GitHub Streak
-
-![Streak](https://streak-stats.demolab.com/?user=mrbiswal&theme=tokyonight)
 
 ---
 
