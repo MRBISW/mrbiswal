@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Rudra Biswal</h1>
+<h1 align="center">Hi 👋, I'm Rudra Biswal 🚀</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F72E&center=true&width=500&lines=B.Tech+Computer+Science+Student;Web+Developer;Learning+JavaScript;Future+Software+Engineer">
 </p>
+
+
 
 ---
 
@@ -22,11 +24,16 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
 
+
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Rudra's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRBISW&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MRBISW&theme=tokyonight)
 
 ---
 
