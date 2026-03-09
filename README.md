@@ -26,7 +26,7 @@
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mrbiswal&show_icons=true&theme=tokyonight)
+![Rudra's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRBISW&show_icons=true&theme=tokyonight)
 
 ---
 
