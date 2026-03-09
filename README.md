@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rudra Biswal 🚀</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F72E&center=true&width=500&lines=B.Tech+Computer+Science+Student;Web+Developer;Learning+JavaScript;Future+Software+Engineer">
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=00F72E&center=true&width=500&lines=B.Tech+Computer+Science+Student;Web+Developer;Learning+JavaScript;Future+Software+Engineer" /></p>
 
 
 
