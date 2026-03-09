@@ -31,12 +31,10 @@
 
 ---
 
- # 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
+![Rudra's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRBISW&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api?username=mrbiswal&show_icons=true&theme=tokyonight" />
-</p>
 
 ---
 
