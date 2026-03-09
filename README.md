@@ -23,12 +23,26 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
 
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mrbiswal&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
+
 ## 📊 GitHub Stats
 
-![Rudra's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRBISW&show_icons=true&theme=tokyonight)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mrbiswal&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbiswal&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
 
 ## 🔥 GitHub Streak
 
@@ -49,3 +63,23 @@
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/MRBISW/snake/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR-LINK">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</p>
+
+## 🔥 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrbiswal&theme=tokyo-night" />
+</p>
