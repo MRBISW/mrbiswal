@@ -11,7 +11,7 @@
 
 - 🎓 B.Tech Computer Science Student  
 - 🌱 Currently learning Web Development  
-- 💻 Skills: HTML, CSS, Git, GitHub 
+- 💻 Skills: HTML, CSS,javascript, Git, GitHub 
 - 📍 From Odisha, India  
 - 🚀 Goal: Become a Software Engineer
 
